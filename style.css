@@ -1,0 +1,74 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode .card {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+.dark-mode .table {
+    color: #ffffff;
+}
+
+.dark-mode .table-striped > tbody > tr:nth-of-type(odd) > td,
+.dark-mode .table-striped > tbody > tr:nth-of-type(odd) > th {
+    background-color: #2a2a2a;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: none;
+    margin-bottom: 20px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.chart-container {
+    position: relative;
+    height: 300px;
+}
+
+.btn {
+    border-radius: 20px;
+    padding: 8px 20px;
+    font-weight: 500;
+}
+
+.form-select {
+    border-radius: 10px;
+}
+
+.table th {
+    background-color: #f1f1f1;
+    font-weight: 600;
+}
+
+.dark-mode .table th {
+    background-color: #2a2a2a;
+}
+
+.loading {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid rgba(0,0,0,.3);
+    border-radius: 50%;
+    border-top-color: #007bff;
+    animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
