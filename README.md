@@ -20,7 +20,7 @@ Real-time Updates: Animated charts and smooth transitions
 Data Table View: View raw data in tabular format
 
 
-##🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 Frontend: HTML5, CSS3, JavaScript (ES6+)
 
@@ -238,6 +238,7 @@ Chart.js for the visualization library
 Bootstrap for the UI framework
 
 AWS for cloud services knowledge
+
 
 
 
