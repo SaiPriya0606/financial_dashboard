@@ -35,7 +35,7 @@ Hosting: GitHub Pages
 
 ## 📊 Project Structure
 
-financial-dashboard/
+financial_dashboard/
 
 ├── index.html # Main dashboard page
 
@@ -63,7 +63,7 @@ financial-dashboard/
 
 ## 🌐 Live Demo
 
-View the live dashboard: [https://SaiPriya0606.github.io/financial-dashboard/](https://SaiPriya0606.github.io/financial-dashboard/)
+View the live dashboard: [https://SaiPriya0606.github.io/financial_dashboard/](https://SaiPriya0606.github.io/financial_dashboard/)
 
 
 ## 📈 Data Visualization
@@ -238,6 +238,7 @@ Chart.js for the visualization library
 Bootstrap for the UI framework
 
 AWS for cloud services knowledge
+
 
 
 
