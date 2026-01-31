@@ -119,7 +119,7 @@ The dashboard displays:
    
 ## 📱 Features in Detail
 
-Interactive Filters
+### Interactive Filters
 
 Filter by year (2020, 2021)
 
@@ -127,7 +127,7 @@ Filter by region (North, South, East, West)
 
 Real-time chart updates
 
-Chart Types
+### Chart Types
 
 Bar Chart: Premium by Region
 
@@ -137,7 +137,7 @@ Line Chart: Claim Ratio Trend
 
 Scatter Plot: Premium vs Claims
 
-User Experience
+### User Experience
 
 Smooth animations and transitions
 
@@ -147,9 +147,9 @@ Keyboard shortcuts (Ctrl+E: Export, Ctrl+R: Refresh, Ctrl+D: Dark Mode)
 
 Responsive design for all devices
 
-🔧 Technical Implementation
+## 🔧 Technical Implementation
 
-Frontend
+### Frontend
 
 Pure HTML/CSS/JavaScript (no frameworks required)
 
@@ -159,7 +159,7 @@ Bootstrap for responsive layout
 
 LocalStorage for user preferences
 
-Data Processing
+### Data Processing
 
 Pandas for data manipulation
 
@@ -167,7 +167,7 @@ CSV and JSON data formats
 
 S3 integration for cloud storage
 
-Hosting
+### Hosting
 
 GitHub Pages for static site hosting
 
@@ -175,7 +175,7 @@ CDN distribution for fast loading
 
 SSL certificate included
 
-🎨 Design Principles
+### 🎨 Design Principles
 
 Clean and modern interface
 
@@ -187,7 +187,7 @@ Accessibility focused
 
 Mobile-first approach
 
-📊 Sample Data
+### 📊 Sample Data
 
 The dashboard uses sample financial data representing:
 
@@ -199,13 +199,13 @@ Claim ratios calculated automatically
 
 Multi-year data for trend analysis
 
-🔮 Future Enhancements
+### 🔮 Future Enhancements
 
  Add more chart types
  
  Real-time data updates
  
- User authentication
+ ### User authentication
  
  Custom date range selection
  
@@ -213,15 +213,15 @@ Multi-year data for trend analysis
  
  API integration for live data
  
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-📄 License
+## 📄 License
 
 This project is open source and available under the MIT License.
 
-👥 Team
+## 👥 Team
 
 Developed by: Team 05
 
@@ -229,7 +229,7 @@ Project Guide: Mr. U. Sheshadri
 
 MassMutual Coordinators: Dr. Vasantha
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 MassMutual for the project opportunity
 
@@ -238,6 +238,7 @@ Chart.js for the visualization library
 Bootstrap for the UI framework
 
 AWS for cloud services knowledge
+
 
 
 
