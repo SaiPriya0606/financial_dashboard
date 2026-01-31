@@ -1,8 +1,9 @@
-Financial KPI Dashboard
+## Financial KPI Dashboard
 
 A modern, interactive dashboard for visualizing key financial metrics including Total Premium, Total Claims, and Claim Ratio across different regions and years.
 
-🚀 Features
+
+## 🚀 Features
 
 Interactive Charts: Visualize financial data with bar charts, pie charts, line charts, and scatter plots
 
@@ -18,7 +19,8 @@ Real-time Updates: Animated charts and smooth transitions
 
 Data Table View: View raw data in tabular format
 
-🛠️ Technology Stack
+
+##🛠️ Technology Stack
 
 Frontend: HTML5, CSS3, JavaScript (ES6+)
 
@@ -28,9 +30,10 @@ Styling: Bootstrap 5
 
 Data Processing: Python with Pandas
 
-Hosting: GitHub Pages
+Hosting: GitHub Pages 
 
-📊 Project Structure
+
+## 📊 Project Structure
 
 financial-dashboard/
 
@@ -62,6 +65,7 @@ financial-dashboard/
 
 View the live dashboard: [https://yourusername.github.io/financial-dashboard/](https://yourusername.github.io/financial-dashboard/)
 
+
 ## 📈 Data Visualization
 
 The dashboard displays:
@@ -72,6 +76,7 @@ The dashboard displays:
 - Premium vs Claims correlation
 - Regional performance comparison
 
+
 ## 🎯 Key Metrics
 
 - Total Premium Collected
@@ -79,6 +84,7 @@ The dashboard displays:
 - Average Claim Ratio
 - Year-over-Year Growth
 - Regional Performance
+
 
 ## 🔧 Data Processing
 
@@ -96,6 +102,7 @@ The dashboard displays:
 - Left Join: All records from left table, matching from right
 - Right Join: All records from right table, matching from left
 
+
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
@@ -108,8 +115,9 @@ The dashboard displays:
    For data processing:
    python financial_data_processor.py
    python csv_joiner.py
+
    
-📱 Features in Detail
+## 📱 Features in Detail
 
 Interactive Filters
 
@@ -120,6 +128,7 @@ Filter by region (North, South, East, West)
 Real-time chart updates
 
 Chart Types
+
 Bar Chart: Premium by Region
 
 Pie Chart: Claims Distribution
@@ -229,5 +238,6 @@ Chart.js for the visualization library
 Bootstrap for the UI framework
 
 AWS for cloud services knowledge
+
 
 
