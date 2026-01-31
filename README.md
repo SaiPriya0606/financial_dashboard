@@ -63,7 +63,7 @@ financial-dashboard/
 
 ## 🌐 Live Demo
 
-View the live dashboard: [https://yourusername.github.io/financial-dashboard/](https://yourusername.github.io/financial-dashboard/)
+View the live dashboard: [https://SaiPriya0606.github.io/financial-dashboard/](https://SaiPriya0606.github.io/financial-dashboard/)
 
 
 ## 📈 Data Visualization
@@ -238,6 +238,7 @@ Chart.js for the visualization library
 Bootstrap for the UI framework
 
 AWS for cloud services knowledge
+
 
 
 
