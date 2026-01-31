@@ -1,34 +1,59 @@
 Financial KPI Dashboard
+
 A modern, interactive dashboard for visualizing key financial metrics including Total Premium, Total Claims, and Claim Ratio across different regions and years.
 
 🚀 Features
+
 Interactive Charts: Visualize financial data with bar charts, pie charts, line charts, and scatter plots
+
 Dynamic Filtering: Filter data by year and region
+
 Dark Mode: Toggle between light and dark themes
+
 Data Export: Export filtered data as CSV
+
 Responsive Design: Works seamlessly on desktop and mobile devices
+
 Real-time Updates: Animated charts and smooth transitions
+
 Data Table View: View raw data in tabular format
 
 🛠️ Technology Stack
+
 Frontend: HTML5, CSS3, JavaScript (ES6+)
+
 Charts: Chart.js
+
 Styling: Bootstrap 5
+
 Data Processing: Python with Pandas
+
 Hosting: GitHub Pages
 
 📊 Project Structure
+
 financial-dashboard/
+
 ├── index.html # Main dashboard page
+
 ├── style.css # Styling and animations
+
 ├── script.js # Interactive functionality
+
 ├── financial_data.json # Sample financial data
+
 ├── financial_data.csv # Financial data in CSV format
+
 ├── use_case2_employees.csv # Employee data
+
 ├── use_case2_departments.csv # Department data
+
 ├── csv_joiner.py # Python script for joining CSV files
+
 ├── financial_data_processor.py # Python script for data processing
+
 ├── use_case1_image.png # Project image
+
 └── README.md # This file
 
 
@@ -158,3 +183,4 @@ MassMutual for the project opportunity
 Chart.js for the visualization library
 Bootstrap for the UI framework
 AWS for cloud services knowledge
+
