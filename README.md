@@ -109,7 +109,7 @@ The dashboard displays:
    git clone https://github.com/SaiPriya0606/financial-dashboard.git
    
 2. Navigate to the project directory:
-   cd financial-dashboard
+   cd financial_dashboard
 
 3. Open index.html in your web browser
    For data processing:
@@ -238,6 +238,7 @@ Chart.js for the visualization library
 Bootstrap for the UI framework
 
 AWS for cloud services knowledge
+
 
 
 
