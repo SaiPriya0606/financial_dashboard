@@ -106,7 +106,7 @@ The dashboard displays:
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/financial-dashboard.git
+   git clone https://github.com/SaiPriya0606/financial-dashboard.git
    
 2. Navigate to the project directory:
    cd financial-dashboard
@@ -238,6 +238,7 @@ Chart.js for the visualization library
 Bootstrap for the UI framework
 
 AWS for cloud services knowledge
+
 
 
 
