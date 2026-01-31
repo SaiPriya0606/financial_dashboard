@@ -63,7 +63,7 @@ function loadFinancialData() {
     showLoading(true);
     
     // In a real implementation, this would fetch from your S3 bucket
-    fetch('financial_data.json')
+    fetch('./financial_data.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
@@ -597,4 +597,5 @@ document.addEventListener('DOMContentLoaded', function() {
     helpBtn.setAttribute('data-bs-toggle', 'modal');
     helpBtn.setAttribute('data-bs-target', '#shortcutsModal');
     document.body.appendChild(helpBtn);
+
 });
